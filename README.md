@@ -1,6 +1,6 @@
 ### hi
 so i do shit, this is the shit i do
-- tiny bit of html css js bullshit
+- bit of nodejs and python
 - funny haxe (mostly flixel) stuff
 - funky friday night game
 ### socials
