@@ -1,8 +1,8 @@
 ### hi
-so i do shit, this is the shit i do
-- bit of nodejs and python
-- funny haxe (mostly flixel) stuff
-- funky friday night game
+sometimes i program. on occasion.
+- i do js
+- i know haxe
+- i also do c# for the lulz and app make stuff
 ### socials
 twitter: morehdboye <br/>
 thats it lol <br/>
